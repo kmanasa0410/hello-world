@@ -1,4 +1,4 @@
-1practicing revert
+practicing revert
 
 # hello-world
 Hello World repository for Git tutorial
