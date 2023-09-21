@@ -6,4 +6,6 @@ This repository is built step by step in the tutorial.
 "this is my change after pushing"
 "this is my latest change"
 
+:thius is my first change in Branch2"
+
 
